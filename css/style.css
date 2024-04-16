@@ -95,6 +95,16 @@ mark {
   filter: drop-shadow(rgba(0, 0, 0, 0.733) 1px -8px 8px);
 }
 
+
+.links h6:hover {
+  transform: scale(0.9);
+}
+
+.links h6 {
+  transition: 0.3s;
+  filter: drop-shadow(rgba(0, 0, 0, 0.733) 1px -8px 8px);
+}
+
 .links {
   line-height: 100px;
   font-family: "inter", sans-serif;
